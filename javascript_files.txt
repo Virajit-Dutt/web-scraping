@@ -1,0 +1,9 @@
+https://apis.google.com/js/platform.js
+https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.14/require.min.js
+https://code.jquery.com/jquery-3.6.3.min.js?ver=3.6.3
+https://code.jquery.com/jquery-migrate-3.0.0.min.js?ver=3.0.0
+https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=12.09
+https://www.googletagmanager.com/gtag/js?id=G-DWCCJLKX3X
+https://www.geeksforgeeks.org/gfg-build/static/js/2.94fba702.chunk.js
+https://www.geeksforgeeks.org/gfg-build/static/js/main.6f1211f2.chunk.js
+https://www.geeksforgeeks.org/wp-includes/js/wp-embed.min.js?ver=4.9.8
